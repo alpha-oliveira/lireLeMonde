@@ -1,2 +1,3 @@
 # lireLeMonde
-Lire articles seulement pour abonnés de Le Monde
+Lire les articles du Le Monde gratuitement 
+Fonctionne seulement en fenêtre de navigation privée.
